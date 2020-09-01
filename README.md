@@ -1,2 +1,3 @@
-##Android CI
-You can use this image for building your Android app within your CI.
+##Android CI (github IC)
+
+You can use this for building your Android app within your CI.
