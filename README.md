@@ -1,3 +1,3 @@
-##Android CI (github IC)
+# Android CI (github IC)
 
-You can use this for building your Android app within your CI.
+Use this .yml file in you git repo to initiate android CI pipeline
