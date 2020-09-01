@@ -6,7 +6,7 @@ You can use this image for building your Android app within your CI.
 ## Usage in GitLab CI
 
 ```yaml
-image: Rokib-Uddin/android_ci
+image: rokibuddinzimi/android_ci
 
 before_script:
     - chmod +x ./gradlew
